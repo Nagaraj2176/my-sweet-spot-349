@@ -128,7 +128,7 @@ function Index() {
                 href="#about"
                 className="rounded-full border border-foreground/20 px-7 py-3.5 font-medium transition-colors hover:border-foreground"
               >
-                About me
+                About myself
               </a>
             </div>
           </div>
